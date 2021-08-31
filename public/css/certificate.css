@@ -1,0 +1,38 @@
+.spacing{
+    padding-bottom: 20px;
+}
+
+.cert-box{
+    border: 1px solid black;
+    height: fit-content;
+    width: 700px;
+    margin: 0px auto;
+    padding: 10px 10px 10px 10px;
+    position: relative;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.textar{
+    position: relative;
+    top: 10px;
+    width: 430px;
+    margin-left: 10px;
+    font-family: Bahnschrift;
+    text-align: right;
+    font-weight: bold;
+    padding-right: 50px;
+}
+.stl{
+    padding-left: 20px;
+    font-family: "Monotype Corsiva";
+    font-weight: normal;
+    font-size: 20px;
+    text-decoration: underline dotted;
+
+}
+p {
+  font-family: Bahnschrift;
+    font-weight: bold;
+    display: inline;
+}
