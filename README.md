@@ -2,4 +2,7 @@
  Automated Birth Registration System
  
  
-Live link - https://birthregbd.ml/
+Live link - 
+http://brsbd.epizy.com/
+
+https://birthregbd.ml/
